@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.middle, th, td{
+	width: 100%;
+	table-layout:fixed;
+	border:1px solid black;
+	spacing:1px;
+}
+#t12{
+	text-align:center;
+}
+#t13{
+	text-align:right;
+}
+td{
+	height:20px;
+}
+img{
+	width:100%;
+	height:auto;
+}
